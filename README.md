@@ -198,6 +198,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-# ❤️ Developed by Sehaj
+# ❤️ Developed by Paramjeet
 
 *"Turning academic data into visual stories, one dashboard at a time."*
