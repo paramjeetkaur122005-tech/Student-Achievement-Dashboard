@@ -45,16 +45,7 @@ A high-performance **MERN Stack** application designed for students to track aca
 
 
 
-## ⚙️ Installation
 
-### 1️⃣ Clone the Project
-
-```bash
-git clone https://github.com/yourusername/student-dashboard.git
-cd student-dashboard
-```
-
----
 
 ## 🖥️ Backend Setup
 
