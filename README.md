@@ -41,32 +41,142 @@ A high-performance **MERN Stack** application designed for students to track aca
 
 
 
-⚙️ Installation
-Clone the Project:
+## ⚙️ Installation
 
-Bash
-git clone [https://github.com/yourusername/student-dashboard.git](https://github.com/yourusername/student-dashboard.git)
+### 1️⃣ Clone the Project
 
+```bash
+git clone https://github.com/yourusername/student-dashboard.git
+cd student-dashboard
+```
 
-2. **Backend Setup:**
-   - Go to `server` folder.
-   - Run `npm install`.
-   - Create `.env` and add `MONGO_URI`, `JWT_SECRET`, and `CLOUDINARY_URL`.
-   - Start with `npm start`.
+---
 
-3. **Frontend Setup:**
-   - Go to `client` folder.
-   - Run `npm install`.
-   - Start with `npm start`.
+## 🖥️ Backend Setup
+
+1. Navigate to the `server` folder:
+
+```bash
+cd server
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Create a `.env` file in the `server` directory and add the following variables:
+
+```env
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+CLOUDINARY_URL=your_cloudinary_url
+```
+
+4. Start the backend server:
+
+```bash
+npm start
+```
+
+Backend will run on:
+
+```bash
+http://localhost:5000
+```
+
+---
+
+## 🌐 Frontend Setup
+
+1. Open a new terminal and navigate to the `client` folder:
+
+```bash
+cd client
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the frontend application:
+
+```bash
+npm start
+```
+
+Frontend will run on:
+
+```bash
+http://localhost:3000
+```
 
 ---
 
 ## 📈 Roadmap
 
-- [ ] PDF Export for Report Cards.
-- [ ] LinkedIn API integration for one-click achievement sharing.
-- [ ] AI-based performance prediction.
+- [ ] PDF Export for Report Cards
+- [ ] LinkedIn API integration for one-click achievement sharing
+- [ ] AI-based performance prediction
+- [ ] Dark Mode support
+- [ ] Real-time notifications system
 
 ---
 
-**Developed with ❤️ by paramjeet kaur**
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Tailwind CSS
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+
+### Cloud & Storage
+- Cloudinary
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create your feature branch
+
+```bash
+git checkout -b feature/AmazingFeature
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add some AmazingFeature"
+```
+
+4. Push to the branch
+
+```bash
+git push origin feature/AmazingFeature
+```
+
+5. Open a Pull Request
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+# ❤️ Developed by Paramjeet
+
+*"Code, coffee, and a little chaos stitched together into one dashboard."*
