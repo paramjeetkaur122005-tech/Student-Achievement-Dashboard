@@ -4,7 +4,8 @@ A high-performance **MERN Stack** application designed for students to track aca
 
 ---
 <img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/fb7e5e3f-d8f9-4d9e-b8fb-a55a1666cfdc" /><br>
-<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/77d7cbdd-ba2c-4385-9a89-c750a65cce52" />
+<img width="1918" height="913" alt="image" src="https://github.com/user-attachments/assets/6e55baca-5a7e-41e7-b0c4-8b45e0dc3246" />
+
 
 
 ## 🚀 Key Features
