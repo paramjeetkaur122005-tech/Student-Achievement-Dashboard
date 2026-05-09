@@ -3,6 +3,9 @@
 A high-performance **MERN Stack** application designed for students to track academic milestones, visualize GPA trends, and manage certifications.
 
 ---
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/fb7e5e3f-d8f9-4d9e-b8fb-a55a1666cfdc" /><br>
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/77d7cbdd-ba2c-4385-9a89-c750a65cce52" />
+
 
 ## 🚀 Key Features
 
